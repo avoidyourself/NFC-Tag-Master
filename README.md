@@ -1,2 +1,3 @@
 # NFC-Tag-Master
-Open‑source RFID/NFC toolkit for Android. Read, write, clone, and emulate key tags &amp; cards — turn your phone into a mobile RFID lab. Perfect for hackers, makers, and pen‑testers exploring access systems and NFC tech.
+RFID/NFC Android Toolkit — read, write, clone & emulate key tags/cards. Open-source mobile lab for access control research.
+
